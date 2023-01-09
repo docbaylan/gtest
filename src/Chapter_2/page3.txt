@@ -4,3 +4,5 @@ but more importantly doing update makes you merge local and remote repository
 like we dis in local repository I mean some changes 
 now go down on the remote repository 
 at the bottom of the page, press commit changes
+gonna be alright
+
