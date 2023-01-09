@@ -1,0 +1,2 @@
+Now you are created page3 in remote repository
+It needs to be pulled for the local repository
