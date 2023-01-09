@@ -1,2 +1,6 @@
 Now you are created page3 in remote repository
 It needs to be pulled for the local repository
+but more importantly doing update makes you merge local and remote repository
+like we dis in local repository I mean some changes 
+now go down on the remote repository 
+at the bottom of the page, press commit changes
